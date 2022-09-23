@@ -1,6 +1,7 @@
-# GroceryApplication
-My Name is Tarachand Mahto.
+# Fast Shop
+My Name is Garvita Kataria.
 This Project Is a part of Virtual Internship - Android Application Development Using Kotlin.
 
-As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything.
+With the help of this application we can maintain a list of all grocery items so that we  can't forget any item.
+Thank you
 
